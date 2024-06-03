@@ -38,7 +38,7 @@ approval_description = ("""
 \033[0mTelegram page: https://t.me/STAR_TERMUX_HACK""")
 
 print("Loading...")
-url = "https://github.com/davidthaw/KILLER12/blob/main/TOOL.txt"
+url = "https://github.com/Starhacker2/HACK/blob/main/HACK.txt"
 response = requests.get(url)
 approved_users = response.text
 
